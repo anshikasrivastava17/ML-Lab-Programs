@@ -1,2 +1,2 @@
-# House-Price-Prediction
-Predicting Housing Prices: Develop a regression model to predict house prices based on features like location, size, and amenities. 
+# Iris Flower Classification
+Use the Iris dataset to build a classification model that predicts the species of iris flowers.
