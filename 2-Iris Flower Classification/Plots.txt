@@ -1,0 +1,35 @@
+Line Plot:
+Shows trends in data over a sequence, typically used for time series.
+Example: Plotting feature values across different samples to see trends.
+
+Bar Plot:
+Displays categorical data with rectangular bars.
+Example: Count of each iris species in the dataset.
+
+Scatter Plot:
+Shows relationships between two numerical variables.
+Example: Sepal length vs. petal length to observe clusters of species.
+
+Box Plot:
+Summarizes data distribution using quartiles, highlighting outliers.
+Example: Sepal width across different species to compare spread.
+
+Histogram:
+Shows the frequency distribution of a single variable.
+Example: Distribution of sepal length values in the dataset.
+
+KDE (Kernel Density Estimation) Plot:
+A smoothed version of a histogram that shows the probability density.
+Example: Shape of petal width distribution across species.
+
+Density Plot:
+Similar to KDE but emphasizes areas where values are concentrated.
+Example: Distribution of all feature values combined.
+
+Heatmap:
+Represents numerical data in a color-coded grid, commonly for correlations.
+Example: Feature correlation matrix to see relationships between features.
+
+Pairplot:
+Plots pairwise scatter plots for numerical features, helping to spot patterns.
+Example: Comparing all feature relationships with species as a hue.
