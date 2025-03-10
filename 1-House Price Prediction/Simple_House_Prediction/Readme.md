@@ -1,6 +1,6 @@
 # Simple House Price Prediction
 ## Exp 1
-- Create a sample csv file with two cols area and price
+- Create a sample csv file with two cols area and price. Dont use predefined csv from Kaggle or any other sources
 - Import Linear regression from scikit learn
 - Predict price based on any area not part of the csv
 
